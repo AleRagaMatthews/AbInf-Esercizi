@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 Es6/main.py"
+run = "python3 Es1/main.py"
